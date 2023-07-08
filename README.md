@@ -1,4 +1,4 @@
-# NeuralNetworks
+# Neural Networks Kaggle Competition
 ANN course 1. semester at MAI THWS Würzburg
 
 # Goal 
@@ -30,4 +30,4 @@ You can discuss freely with your colleagues in the course ideas and strategies t
 Be inventive, play fair and have fun.
 
 # Kaggle Competition
-https://www.kaggle.com/competitions/step-detection/rules
+https://www.kaggle.com/competitions/step-detection/overview
